@@ -1,0 +1,219 @@
+city,admin_name,country
+Kingoonya,South Australia,Australia
+Port Denison,Western Australia,Australia
+Cairns,Queensland,Australia
+Kwinana,Western Australia,Australia
+Cranbourne,Victoria,Australia
+Port Hedland,Western Australia,Australia
+Port Lincoln,South Australia,Australia
+Port Macquarie,New South Wales,Australia
+Port Pirie,South Australia,Australia
+Portland,Victoria,Australia
+Proserpine,Queensland,Australia
+Busselton,Western Australia,Australia
+Caboolture,Queensland,Australia
+Cooma,New South Wales,Australia
+Streaky Bay,South Australia,Australia
+Sunbury,Victoria,Australia
+Sydney,New South Wales,Australia
+Karumba,Queensland,Australia
+Esperance,Western Australia,Australia
+Exmouth,Western Australia,Australia
+Forbes,New South Wales,Australia
+Morawa,Western Australia,Australia
+Moree,New South Wales,Australia
+Katherine,Northern Territory,Australia
+Katoomba,New South Wales,Australia
+Launceston,Tasmania,Australia
+Laverton,Western Australia,Australia
+Leeton,New South Wales,Australia
+Leonara,Western Australia,Australia
+Seymour,Victoria,Australia
+Singleton,New South Wales,Australia
+Newcastle,New South Wales,Australia
+Norseman,Western Australia,Australia
+Batemans Bay,New South Wales,Australia
+Bathurst,New South Wales,Australia
+Griffith,New South Wales,Australia
+Whyalla,South Australia,Australia
+Wilcannia,New South Wales,Australia
+Katanning,Western Australia,Australia
+Bongaree,Queensland,Australia
+Bordertown,South Australia,Australia
+Boulia,Queensland,Australia
+Bourke,New South Wales,Australia
+Mackay,Queensland,Australia
+Southern Cross,Western Australia,Australia
+Ulladulla,New South Wales,Australia
+Victor Harbor,South Australia,Australia
+Andamooka,South Australia,Australia
+Hervey Bay,Queensland,Australia
+Gunnedah,New South Wales,Australia
+Gympie,Queensland,Australia
+Halls Creek,Western Australia,Australia
+Hamilton,Victoria,Australia
+Winton,Queensland,Australia
+Mudgee,New South Wales,Australia
+Ivanhoe,New South Wales,Australia
+Pannawonica,Western Australia,Australia
+Dubbo,New South Wales,Australia
+Tom Price,Western Australia,Australia
+Parkes,New South Wales,Australia
+Sale,Victoria,Australia
+Bendigo,Victoria,Australia
+Berri,South Australia,Australia
+Adelaide,South Australia,Australia
+Adelaide River,Northern Territory,Australia
+Albany,Western Australia,Australia
+Burketown,Queensland,Australia
+Burnie,Tasmania,Australia
+Penola,South Australia,Australia
+Perth,Western Australia,Australia
+Peterborough,South Australia,Australia
+Scone,New South Wales,Australia
+Scottsdale,Tasmania,Australia
+Narrabri,New South Wales,Australia
+Narrogin,Western Australia,Australia
+Townsville,Queensland,Australia
+Traralgon,Victoria,Australia
+Central Coast,New South Wales,Australia
+Broome,Western Australia,Australia
+Bunbury,Western Australia,Australia
+Wyndham,Western Australia,Australia
+Yamba,New South Wales,Australia
+Tumby Bay,South Australia,Australia
+Forster-Tuncurry,New South Wales,Australia
+Bundaberg,Queensland,Australia
+Yulara,Northern Territory,Australia
+Richmond,New South Wales,Australia
+Richmond,Queensland,Australia
+Rockhampton,Queensland,Australia
+Roebourne,Western Australia,Australia
+Roma,Queensland,Australia
+Cloncurry,Queensland,Australia
+Cobram,Victoria,Australia
+Coffs Harbour,New South Wales,Australia
+Colac,Victoria,Australia
+Alice Springs,Northern Territory,Australia
+Ararat,Victoria,Australia
+Carnarvon,Western Australia,Australia
+Ceduna,South Australia,Australia
+Charleville,Queensland,Australia
+Charters Towers,Queensland,Australia
+Kalbarri,Western Australia,Australia
+Kununurra,Western Australia,Australia
+Dalby,Queensland,Australia
+Lithgow,New South Wales,Australia
+Manjimup,Western Australia,Australia
+Maitland,New South Wales,Australia
+Mandurah,Western Australia,Australia
+Karratha,Western Australia,Australia
+Gawler,South Australia,Australia
+Geelong,Victoria,Australia
+Georgetown,Queensland,Australia
+Geraldton,Western Australia,Australia
+Maryborough,Victoria,Australia
+Maryborough,Queensland,Australia
+McMinns Lagoon,Northern Territory,Australia
+Toowoomba,Queensland,Australia
+Onslow,Western Australia,Australia
+Orange,New South Wales,Australia
+Stawell,Victoria,Australia
+Echuca,Victoria,Australia
+Eidsvold,Queensland,Australia
+Emerald,Queensland,Australia
+Tamworth,New South Wales,Australia
+Taree,New South Wales,Australia
+Ballarat,Victoria,Australia
+Ballina,New South Wales,Australia
+Barcaldine,Queensland,Australia
+Mount Barker,Western Australia,Australia
+Mount Gambier,South Australia,Australia
+Mount Isa,Queensland,Australia
+Mount Magnet,Western Australia,Australia
+Kempsey,New South Wales,Australia
+Queanbeyan,New South Wales,Australia
+Queenstown,Tasmania,Australia
+Quilpie,Queensland,Australia
+Ravensthorpe,Western Australia,Australia
+Warrnambool,Victoria,Australia
+Warwick,Queensland,Australia
+Weipa,Queensland,Australia
+Ouyen,Victoria,Australia
+Wollongong,New South Wales,Australia
+Wonthaggi,Victoria,Australia
+Kiama,New South Wales,Australia
+Kimba,South Australia,Australia
+Kingaroy,Queensland,Australia
+Pine Creek,Northern Territory,Australia
+Hobart,Tasmania,Australia
+Darwin,Northern Territory,Australia
+Gingin,Western Australia,Australia
+Meekatharra,Western Australia,Australia
+Melbourne,Victoria,Australia
+Woomera,South Australia,Australia
+Moranbah,Queensland,Australia
+Port Augusta,South Australia,Australia
+Port Douglas,Queensland,Australia
+Gladstone,Queensland,Australia
+Gold Coast,Queensland,Australia
+Horsham,Victoria,Australia
+Hughenden,Queensland,Australia
+Northam,Western Australia,Australia
+Nowra,New South Wales,Australia
+Shepparton,Victoria,Australia
+Yeppoon,Queensland,Australia
+Young,New South Wales,Australia
+Caloundra,Queensland,Australia
+Ingham,Queensland,Australia
+Innisfail,Queensland,Australia
+Inverell,New South Wales,Australia
+Kingston,Tasmania,Australia
+Kingston South East,South Australia,Australia
+Clare,South Australia,Australia
+Bowen,Queensland,Australia
+Melton,Victoria,Australia
+Meningie,South Australia,Australia
+Merimbula,New South Wales,Australia
+Merredin,Western Australia,Australia
+Mildura,Victoria,Australia
+Thargomindah,Queensland,Australia
+Theodore,Queensland,Australia
+Three Springs,Western Australia,Australia
+Oatlands,Tasmania,Australia
+Wagin,Western Australia,Australia
+Armidale,New South Wales,Australia
+Atherton,Queensland,Australia
+Ayr,Queensland,Australia
+Bairnsdale,Victoria,Australia
+Camooweal,Queensland,Australia
+Canberra,Australian Capital Territory,Australia
+Longreach,Queensland,Australia
+Brisbane,Queensland,Australia
+Devonport,Tasmania,Australia
+Wallaroo,South Australia,Australia
+Wangaratta,Victoria,Australia
+Cowell,South Australia,Australia
+Cowra,New South Wales,Australia
+Goondiwindi,Queensland,Australia
+Goulburn,New South Wales,Australia
+Grafton,New South Wales,Australia
+Murray Bridge,South Australia,Australia
+Muswellbrook,New South Wales,Australia
+Windorah,Queensland,Australia
+Bedourie,Queensland,Australia
+Newman,Western Australia,Australia
+Birdsville,Queensland,Australia
+Kalgoorlie,Western Australia,Australia
+Biloela,Queensland,Australia
+Smithton,Tasmania,Australia
+Bicheno,Tasmania,Australia
+Deniliquin,New South Wales,Australia
+Broken Hill,New South Wales,Australia
+Swan Hill,Victoria,Australia
+Albury,New South Wales,Australia
+Wagga Wagga,New South Wales,Australia
+Tumut,New South Wales,Australia
+Lismore,New South Wales,Australia
+Byron Bay,New South Wales,Australia
+Tweed Heads,New South Wales,Australia
