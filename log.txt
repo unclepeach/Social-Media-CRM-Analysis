@@ -13716,3 +13716,102 @@ Traceback (most recent call last):
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder = 'Send a private message...']"}
   (Session info: chrome=75.0.3770.142)
 
+Traceback (most recent call last):
+  File "<ipython-input-57-a16ba89279a8>", line 11, in <module>
+    tarea.send_keys(Keys.CONTROL+Keys.SHIFT+"v")
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "<ipython-input-58-abe621e3dd10>", line 11, in <module>
+    driver.send_keys(Keys.CONTROL+Keys.SHIFT+"v")
+AttributeError: 'WebDriver' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "<ipython-input-59-7cdc0a3d0e08>", line 11, in <module>
+    ActionChians(driver).click(tarea).send_keys(Keys.CONTROL+Keys.SHIFT+"v").perform()
+NameError: name 'ActionChians' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-60-963a5051da69>", line 11, in <module>
+    ActionChains(driver).click(tarea).send_keys(Keys.CONTROL+Keys.SHIFT+"v").perform()
+NameError: name 'Keys' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-62-f1a416428d2c>", line 11, in <module>
+    ActionChains(driver).click(tarea).send_keys(CONTROL+SHIFT+"v").perform()
+NameError: name 'CONTROL' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-95-e81867b7348d>", line 10, in <module>
+    tarea = driver.find_element_by_xpath('//div[@data-offset-key = "vc4r-0-0"]')
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@data-offset-key = "vc4r-0-0"]"}
+  (Session info: chrome=75.0.3770.142)
+
+Traceback (most recent call last):
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<ipython-input-3-b36b21858cad>", line 15, in <module>
+    ActionChains(driver).click(tarea).key_down(Keys.CONTROL).key_down(Keys.SHIFT).send_keys("v").key_up(Keys.SHIFT).key_up(Keys.CONTROL).send_keys(Keys.BACKSPACE).send_keys(Keys.ENTER).perform()
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\common\action_chains.py", line 80, in perform
+    self.w3c_actions.perform()
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 76, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\request.py", line 72, in request
+    **urlopen_kw)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\UNclePeach\Anaconda3\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\UNclePeach\Anaconda3\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\UNclePeach\Anaconda3\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\UNclePeach\Anaconda3\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "<ipython-input-7-c88a60f4e6e1>", line 10, in <module>
+    print(notify.get_attributes("data-tooltip-content"))
+AttributeError: 'WebElement' object has no attribute 'get_attributes'
+Traceback (most recent call last):
+  File "<ipython-input-9-8f5994155d9a>", line 17, in <module>
+    if any(x in notify for x in keywords):
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "<ipython-input-10-2c324afc80d9>", line 18, in <module>
+    if any(x in notify for x in keywords):
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "<ipython-input-34-e37adf937b32>", line 22, in <module>
+    if driver.find_element_by_xpath('//div[@aria-label = "Messages"]'):
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\UNclePeach\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label = "Messages"]"}
+  (Session info: chrome=75.0.3770.142)
+
